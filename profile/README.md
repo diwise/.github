@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
-<a href="https://github.com/diwise/.github/main/profile/README.md#repositories">Repositories</a> • <a href="">Contribute</a> • <a href="">Documentation</a>
+<a href="https://github.com/diwise/#repositories">Repositories</a> • <a href="https://github.com/diwise/#contribute">Contribute</a> • <a href="https://github.com/diwise/#documentation">Documentation</a>
 </div>
 <br>
 
