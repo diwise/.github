@@ -7,7 +7,7 @@
 </div>
 <br>
 
-Diwise is an open source IoT and City Information Platform that uses standardised data and information models, (FIWARE and NGSI-LD). *A sentence about the purpose of diwise here.* To learn more about diwise in Swedish, check out <a href="https://diwise.se/">diwise.se</a>.
+diwise was made with the intention of delivering a modular, open-source IoT and City Information platform that uses standardised data and information models (FIWARE and NGSI-LD) for increased accessibility, and to inspire and enable cross-organisational collaboration. To learn more about diwise in Swedish, check out <a href="https://diwise.se/">diwise.se</a>.
 
 ### Repositories
 Configuration repositories can be found by adding *-config* at the end of the repository name.
