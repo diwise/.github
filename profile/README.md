@@ -7,9 +7,9 @@
 </div>
 <br>
 
-Diwise is an open source City Information and IoT Platform that uses standardised data and information models, (FIWARE and NGSI-LD). To learn more about diwise in Swedish, check out [diwise.se]("https://diwise.se/).
+Diwise is an open source IoT and City Information Platform that uses standardised data and information models, (FIWARE and NGSI-LD). *A sentence about the purpose of diwise here.* To learn more about diwise in Swedish, check out <a href="https://diwise.se/">diwise.se</a>.
 
-## Repositories
+### Repositories
 Configuration repositories can be found by adding *-config* at the end of the repository name.
 
 <div align="center">
@@ -52,29 +52,29 @@ Configuration repositories can be found by adding *-config* at the end of the re
   </tr>
   <tr>
     <td><a href="https://github.com/diwise/api-pointofinterest">api-pointofinterest</a></td>
-    <td><a href="https://github.com/diwise/integration-cip-sdl">integration-cip-sdl</a></td>
+    <td><a href="https://github.com/diwise/integration-cip-skidspar">integration-cip-skidspar</a></td>
     <td><a href="https://github.com/diwise/ingress-trafikverket">ingress-trafikverket</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/diwise/api-problemreport">api-problemreport</a></td>
-    <td><a href="https://github.com/diwise/integration-cip-skidspar">integration-cip-skidspar</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/diwise/api-smartwater">api-smartwater</a></td>
     <td><a href="https://github.com/diwise/integration-fimbul">integration-fimbul</a></td>
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/diwise/api-smartwater">api-smartwater</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/diwise/api-temperature">api-temperature</a></td>
-    <td><a href="https://github.com/diwise/integration-incident">integration-incident</a></td>
+    <td></td>
     <td></td>
   </tr>
 </table>
 </div>
 
-## Contribute
+### Contribute
 Diwise is an open source project and we welcome contributions. Our contribution guidelines are forthcoming. 
 
-## Documentation
+### Documentation
 [Github Pages](https://pages.github.com/diwise)
