@@ -73,6 +73,11 @@ Configuration repositories can be found by adding *-config* at the end of the re
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/diwise/api-rec">api-rec</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/diwise/api-smartwater">api-smartwater</a></td>
     <td></td>
     <td></td>
