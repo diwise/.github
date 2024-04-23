@@ -25,7 +25,7 @@ Configuration repositories can be found by adding *-config* at the end of the re
   </tr>
   <tr>
     <td><a href="https://github.com/diwise/iot-core">iot-core</a></td>
-    <td></td>
+    <td><a href="https://github.com/diwise/cip-functions">cip-functions</a></td>
     <td><a href="https://github.com/diwise/ngsi-ld-golang">ngsi-ld-golang</a></td>
   </tr>
   <tr>
@@ -46,6 +46,12 @@ Configuration repositories can be found by adding *-config* at the end of the re
   </tr>
     <tr>
     <td><a href="https://github.com/diwise/iot-events">iot-events</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/diwise/iot-things">iot-things</a></td>
     <td></td>
     <td></td>
   </tr>
