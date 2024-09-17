@@ -34,7 +34,7 @@ Configuration repositories can be found by adding *-config* at the end of the re
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/diwise/iot-device-mgmt-web">iot-device-management-web</a></td>
+    <td><a href="https://github.com/diwise/diwise-web">diwise-web</a></td>
     <td></td>
     <td></td>
   </tr>
