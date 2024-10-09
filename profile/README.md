@@ -102,4 +102,4 @@ Diwise is an open source project and we welcome contributions. Our contribution 
 
 ### Documentation
 
-[Github Pages](https://pages.github.com/diwise)
+[Github Pages]([https://diwise.github.io/])
