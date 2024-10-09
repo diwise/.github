@@ -102,4 +102,4 @@ Diwise is an open source project and we welcome contributions. Our contribution 
 
 ### Documentation
 
-<a href="[https://github.com/diwise/api-temperature](https://diwise.github.io)">Github Pages</a>
+[Github Pages](https://diwise.github.io/)
