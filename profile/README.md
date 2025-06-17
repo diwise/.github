@@ -21,17 +21,17 @@ Configuration repositories can be found by adding *-config* at the end of the re
   <tr>
     <td><a href="https://github.com/diwise/iot-agent">iot-agent</a></td>
     <td><a href="https://github.com/diwise/context-broker">context-broker</a></td>
-    <td><a href="https://github.com/diwise/messaging-golang">messaging-golang</a></td>
+    <td><a href="https://github.com/diwise/frontend-toolkit">frontend-toolkit</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/diwise/iot-core">iot-core</a></td>
     <td><a href="https://github.com/diwise/cip-functions">cip-functions</a></td>
-    <td><a href="https://github.com/diwise/service-chassis">service-chassis</a></td>
+    <td><a href="https://github.com/diwise/messaging-golang">messaging-golang</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/diwise/iot-device-mgmt">iot-device-management</a></td>
     <td></td>
-    <td></td>
+    <td><a href="https://github.com/diwise/service-chassis">service-chassis</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/diwise/diwise-web">diwise-web</a></td>
@@ -76,21 +76,6 @@ Configuration repositories can be found by adding *-config* at the end of the re
   <tr>
     <td><a href="https://github.com/diwise/api-problemreport">api-problemreport</a></td>
     <td><a href="https://github.com/diwise/integration-fimbul">integration-fimbul</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/diwise/api-rec">api-rec</a></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/diwise/api-smartwater">api-smartwater</a></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/diwise/api-temperature">api-temperature</a></td>
-    <td></td>
     <td></td>
   </tr>
 </table>
