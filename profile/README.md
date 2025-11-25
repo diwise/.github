@@ -85,6 +85,8 @@ Configuration repositories can be found by adding *-config* at the end of the re
 
 Diwise is an open source project and we welcome contributions. If you have a great idea that you believe would improve or complement Diwise, feel free to submit it as a feature request using our template on GitHub. The easiest way to do this is by following this link. Create [feature request](https://github.com/diwise/diwise/issues/new?template=feature_request.md).
 
+Found a problem? Submit a Bug Report with as much detail as possible. Please use the following link. Create [bug report](https://github.com/diwise/diwise/issues/new?template=bug_report.md).
+
 
 ### Documentation
 
