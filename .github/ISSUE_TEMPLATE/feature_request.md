@@ -1,20 +1,23 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+about: Föreslå en ny funktion eller förbättring
+title: '[Feature] '
+labels: 'enhancement'
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### Beskriv din idé
+ En tydlig och kort beskrivning av vilken funktion du vill lägga till.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+### Varför behövs detta?
+Beskriv vilket problem eller behov som den här funktionen löser.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+### Hur skulle lösningen kunna fungera?
+En möjlig lösning eller design. Det kan vara kort eller detaljerat.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### Alternativa lösningar
+Har du några andra sätt problemet skulle kunna lösas på?
+
+### Övrig information
+Länkar, skisser, referenser eller annat som kan hjälpa oss att förstå din idé.
