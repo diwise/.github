@@ -1,32 +1,32 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+about: Skapa en bugg så att vi kan åtgärda felet
+title: '[Bug] '
+labels: 'bug'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+### Beskriv felet 
+En klar och kortfattad beskrivning av vad felet är.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### För att återskapa felet
+Steg för att reproducera beteendet:
+- Gå till '...'
+- Klicka på '...'
+- Scrolla ner till '...'
+- Se felet
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### Förväntat beteende
+En klar och kortfattad beskrivning av vad du förväntade dig skulle hända.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### Skärmdumpar
+Lägg gärna till skärmdumpar om det hjälper till att förklara problemet.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+### Desktop (vänligen fyll i följande information):
+- OS: [t.ex. iOS]
+- Webbläsare: [t.ex. Chrome, Safari]
+- Version: [t.ex. 22]
 
-**Additional context**
-Add any other context about the problem here.
+### Ytterligare information
+Lägg till annan relevant information om problemet här.
